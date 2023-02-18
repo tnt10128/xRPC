@@ -1,0 +1,17 @@
+{
+    "client_id": "",
+    "top_text": "Top text",
+    "bottom_text": "Bottom text",
+    "large_image_name": "",
+    "small_image_name": "",
+    "buttons": [
+        {
+            "label": "My website",
+            "url": "google.com"
+        },
+        {
+            "label": "My GitHub",
+            "url": "github.com"
+        }
+    ]
+}
